@@ -1,0 +1,14 @@
+{
+  "name": "aliens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server --files 'src/*'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^2.4.6"
+  }
+}
