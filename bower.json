@@ -1,0 +1,22 @@
+{
+  "name": "aliens",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Kyle Buchanan <kylebuch8@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kylebuch8/ALIENS",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "phaser": "~2.4.6"
+  }
+}
